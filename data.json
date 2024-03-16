@@ -216,26 +216,31 @@
         {
               "question": "قائد المنطقة الأولى",
               "reponse": ["زيغود يوسف", "هواري بومدين", "مصطفى بن بولعيد"],
+              "img": "https://raw.githubusercontent.com/NouNouDz/bacquiz/main/assets/1.png",
               "vrai": 2
         },
         {
              "question": "قائد المنطقة الثانية",
               "reponse": ["ديدوش مراد", "عبد الحميد بن باديس", "فرحات عباس"],
+              "img": "https://raw.githubusercontent.com/NouNouDz/bacquiz/main/assets/2.png",
               "vrai": 0
             },
             {
               "question": "قائد المنطقة الثالثة",
               "reponse": ["العربي بن مهيدي", "زيغود يوسف", "كريم بلقاسم"],
+              "img": "https://raw.githubusercontent.com/NouNouDz/bacquiz/main/assets/3.png",
               "vrai": 2
             },
             {
               "question": "قائد المنطقة الرابعة",
               "reponse": ["ميصالي الحاج", "رابح بيطاط", "العربي بن مهيدي"],
+              "img": "https://raw.githubusercontent.com/NouNouDz/bacquiz/main/assets/4.png",
               "vrai": 1
             },
             {
               "question": "قائد المنطقة الخامسة",
               "reponse": ["العربي بن مهيدي", "احمد بن بلة", "محمد خيضر"],
+              "img": "https://raw.githubusercontent.com/NouNouDz/bacquiz/main/assets/5.png",
               "vrai": 0
             },
             {
